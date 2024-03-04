@@ -7,4 +7,4 @@ Ideas for the project:
 Pitch implementation:
   A big ol' list
     [['note1', length], ['note2', length]... ['rest', length]]
-    
+      'note' should be a string if a single note or a list filled with strings if a chord
